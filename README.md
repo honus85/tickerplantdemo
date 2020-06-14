@@ -8,9 +8,9 @@ q <br />
 --|q <br /> 
 ----|w64 <br /> 
 ------|q.exe <br /> 
-  --|tick <br /> 
-     --|r.q <br /> 
-     --|sym.q   <br /> 
+----|tick <br /> 
+ ------|r.q <br /> 
+ ------|sym.q   <br /> 
 --|tick.q <br /> 
 --|publisher.q <br /> 
 --|tickerplant.q <br /> 
