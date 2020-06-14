@@ -4,17 +4,17 @@ tickerplant usage
 This is a demo of how to use kdb+ ticker plant.
 Setup windows folder structure as
 
-q
---|q
-----|w64
-------|q.exe
-  --|tick
-     --|r.q
-     --|sym.q  
---|tick.q
---|publisher.q
---|tickerplant.q
---|subscriber.q
+q <br /> 
+--|q <br /> 
+----|w64 <br /> 
+------|q.exe <br /> 
+  --|tick <br /> 
+     --|r.q <br /> 
+     --|sym.q   <br /> 
+--|tick.q <br /> 
+--|publisher.q <br /> 
+--|tickerplant.q <br /> 
+--|subscriber.q <br /> 
 
 Open files in three separate q processes
 
